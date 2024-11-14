@@ -1,4 +1,4 @@
-## Kubernetes权威指南：从Docker到Kubernetes实践全接触（第4版）
+## Kubernetes权威指南：从Docker到Kubernetes实践全接触（第4版） 
 > 龚正等
 
 ### 推荐序
